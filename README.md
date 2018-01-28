@@ -1,3 +1,3 @@
 # GitHub Webhook Test Repo
 
-Test Test2
+Test
